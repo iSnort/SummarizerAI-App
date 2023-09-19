@@ -1,0 +1,2 @@
+# SummarizerAI-App
+Personal project
